@@ -8,5 +8,3 @@ if __name__ == '__main__':
     f = open('inputFile.txt', 'r')
     print(f.read())
     f.close()
-
-
