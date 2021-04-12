@@ -19,3 +19,5 @@ if __name__ == '__main__':
     f.close()
     passFile.close()
     failFile.close()
+
+    print('\nProcess finished.\n')
