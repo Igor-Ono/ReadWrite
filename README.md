@@ -1,2 +1,2 @@
-# Read, write and organize directories code.
-# Project based on "Using Python for Automation" course.
+# Read, write and organize directories.
+Project based on "Using Python for Automation" course.
